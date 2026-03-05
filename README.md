@@ -33,6 +33,11 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Javascript-217346?style=for-the-badge&logo=microsoft-Javascript&logoColor=white" alt="Javascript"/>
+  <img src="https://img.shields.io/badge/HTML-217346?style=for-the-badge&logo=microsoft-HTML&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-217346?style=for-the-badge&logo=microsoft-CSS&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/PHP-217346?style=for-the-badge&logo=microsoft-PHP&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/React-217346?style=for-the-badge&logo=microsoft-React&logoColor=white" alt="React"/>
 </p>
 
 ### Data Visualization
