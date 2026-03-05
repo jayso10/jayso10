@@ -35,9 +35,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   <img src="https://img.shields.io/badge/Javascript-217346?style=for-the-badge&logo=microsoft-Javascript&logoColor=white" alt="Javascript"/>
   <img src="https://img.shields.io/badge/HTML-217346?style=for-the-badge&logo=microsoft-HTML&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-217346?style=for-the-badge&logo=microsoft-CSS&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/PHP-217346?style=for-the-badge&logo=microsoft-PHP&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/React-217346?style=for-the-badge&logo=microsoft-React&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/CSS-013243?style=for-the-badge&logo=CSS&logoColor=white%22%20alt=%22CSS%22"/>
+  <img src="https://img.shields.io/badge/PHP-013243?style=for-the-badge&logo=PHP&logoColor=white%22%20alt=%22PHP%22"/>
+  <img src="https://img.shields.io/badge/React-012843?style=for-the-badge&logo=React&logoColor=white%22%20alt=%22PHP%22"/>
 </p>
 
 ### Data Visualization
