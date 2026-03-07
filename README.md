@@ -71,9 +71,9 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ## Projects
 <ul>
-  <li><strong>Project 1:</strong> <a href="PROJECT_1_REPO_URL">REPO LINK</a> | <a href="PROJECT_1_LIVE_URL">LIVE DEMO</a></li>
-  <li><strong>Project 2:</strong> <a href="PROJECT_2_REPO_URL">REPO LINK</a> | <a href="PROJECT_2_LIVE_URL">LIVE DEMO</a></li>
-  <li><strong>Project 3:</strong> <a href="PROJECT_3_REPO_URL">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">LIVE DEMO</a></li>
+  <li><strong>Football Analysis:</strong> <a href="PROJECT_1_REPO_URL">REPO LINK</a> | <a href="https://public.tableau.com/views/FootballViz_17503919933510/Football?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">LIVE DASHBOARD</a></li>
+  <li><strong>Bike Sales:</strong> <a href="PROJECT_2_REPO_URL">REPO LINK</a> | <a href="https://public.tableau.com/views/BikeSales_17498547885450/BikeSalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">LIVE DASHBOARD</a></li>
+  <li><strong>Project 3:</strong> <a href="PROJECT_3_REPO_URL">REPO LINK</a> | <a href="PROJECT_3_LIVE_URL">LIVE DASHBOARD</a></li>
 </ul>
 
 ---
