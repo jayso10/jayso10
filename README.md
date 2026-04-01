@@ -90,7 +90,7 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 ## Connect With Me
 <p align="center">
 <!-- linkdin-->
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
+  <a href="https://www.linkedin.com/in/justice-sosu-mbcs-56ab37209" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!-- Email -->
