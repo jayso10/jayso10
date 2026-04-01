@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<a href="https://www.justicesosu.co.uk"><h2>View My Website Portfolio</h2></a>
+<a href="https://www.justicesosu.co.uk" target = "Blank">View My Website Portfolio</a>
 </div>
 
 
